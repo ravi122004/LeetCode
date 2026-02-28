@@ -17,9 +17,8 @@ O(h)
 Where h = height of the tree
 Which means:
 Worst case → O(n)
-Balanced tree → O(log n)
+Balanced tree → O(log n)*/
 
-Code
 class Solution {
 public:
     TreeNode* build(vector<int>& pre,int preLo,int preHi,vector<int>& in,int inLo,int inHi){
