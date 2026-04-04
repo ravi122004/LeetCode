@@ -14,7 +14,6 @@
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
-// # Code
 // ```cpp
 class Solution {
 public:
