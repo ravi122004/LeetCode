@@ -8,7 +8,6 @@
 // Slide the window:
 // Add nums[i] and subtract nums[i-k].
 // Update maximum average.
-// Return final answer.
 
 // # Complexity
 // Time Complexity: O(n)
