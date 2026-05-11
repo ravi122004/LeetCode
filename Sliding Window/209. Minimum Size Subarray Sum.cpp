@@ -13,7 +13,7 @@ If no valid subarray exists → return 0.
 
 # Complexity
 Time Complexity: O(n)
-Space Complexity: O(1)
+Space Complexity: O(1);
 
 # Code
 ```cpp
